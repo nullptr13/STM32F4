@@ -1,0 +1,15 @@
+"D:\IAR Embedded Workbench\arm\bin\armproc.dll" 
+
+"D:\IAR Embedded Workbench\arm\bin\armstlink2.dll" 
+
+"C:\Users\Dmitri\Documents\STM32F4\Task_03\Debug\Exe\c.out" 
+
+--plugin "D:\IAR Embedded Workbench\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR Embedded Workbench\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\IAR Embedded Workbench\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
